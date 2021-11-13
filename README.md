@@ -17,7 +17,7 @@ There are four main points that can be deduced from the tables:
 4. There are far more people retiring, and therefore more open positions, than there are people eligibile for the mentorship program. The program needs to be either efficient enough for one retiree to be able to mentor multiple new hires.
 
 ## Summary
-According to the retiring_titles table, there are 90398 employees will retire soon and their roles will need to be filled. Breaking it down further by job title there are 29414 senior engineer postions, 28254 senior staff, 14222 engineer, 12243 staff, 4502 technique leaders, 1761 assistant engineers, and 2 manager positions that will need to be filled. Only 1549 employees are eligible for the mentorship program. In order to find out if there were enough mentors for each job title, the following query and subsiquent table was performed.
+According to the retiring_titles table, there are 90398 employees will retire soon and their roles will need to be filled. Breaking it down further by job title there are 29414 senior engineer postions, 28254 senior staff, 14222 engineer, 12243 staff, 4502 technique leaders, 1761 assistant engineers, and 2 manager positions that will need to be filled. Only 1549 employees are eligible for the mentorship program. In order to find out if there were enough mentors for each job title, the following query and subsiquent table was outputted.
 
 ![summary_query](https://github.com/mayamtims/Pewlett-Hackard-Analysis/blob/main/Queries/summary_qury.png)
 
