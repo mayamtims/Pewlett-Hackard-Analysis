@@ -6,7 +6,7 @@ The purpose of this analysis was to determine the number of retiring employees p
 ## Results
 Both tables were exported as CSV files and can be found by clicking on the links below:
 
-[retiring_titles.csv](https://github.com/mayamtims/Pewlett-Hackard-Analysis/blob/main/Data/retiring_titles.csv)
+![retiring_titles.csv](https://github.com/mayamtims/Pewlett-Hackard-Analysis/blob/main/Data/retiring_titles.csv)
 [mentorship_eligibility](https://github.com/mayamtims/Pewlett-Hackard-Analysis/blob/main/Data/mentorship_eligibility.csv)
 
 There are four main points that can be deduced from the tables:
@@ -18,7 +18,7 @@ There are four main points that can be deduced from the tables:
 ## Summary
 According to the retiring_titles table, there are 90398 employees will retire soon and their roles will need to be filled. Breaking it down further by job title there are 29414 senior engineer postions, 28254 senior staff, 14222 engineer, 12243 staff, 4502 technique leaders, 1761 assistant engineers, and 2 manager positions that will need to be filled. Only 1549 employees are eligible for the mentorship program. In order to find out if there were enough mentors for each job title, the following query and subsiquent table was performed.
 
-[summary_query](https://github.com/mayamtims/Pewlett-Hackard-Analysis/blob/main/Queries/summary_qury.png)
-[mentorship_table](https://github.com/mayamtims/Pewlett-Hackard-Analysis/blob/main/Queries/summary_table.png)
+![summary_query](https://github.com/mayamtims/Pewlett-Hackard-Analysis/blob/main/Queries/summary_qury.png)
+![mentorship_table](https://github.com/mayamtims/Pewlett-Hackard-Analysis/blob/main/Queries/summary_table.png)
 
 The table shows that the mentors are proportionally distributed across each job title. This result indicates that there is a sufficent number of mentors per job title to be able to properly train the next generation of employees. There are enough retirement-ready Pewlett Hackard employees who are qualified enough to be a participant in the mentorship program. 
